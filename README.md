@@ -5,7 +5,7 @@ I have Implemented the Mnist Hand Written Dataset in Keras as well Pytorch.
 Two of the above folders contains each of the project implementatons respectively
 
 <p>Just open the respective folder and run<p>
-1. pip install -r requirement.txt in your environment to get install all the required libraries
+1. <p><b>pip install -r requirement.txt</b> in your environment to get install all the required libraries</p>          
 2. Then run createdata if doing with Keras(skip for pytorch)
 3. Then run train.py
 
